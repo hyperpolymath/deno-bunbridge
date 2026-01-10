@@ -1,12 +1,15 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
+image:https://img.shields.io/badge/license-PMPL--1.0-blue.svg[License,link="https://github.com/hyperpolymath/palimpsest-license"]
+// SPDX-License-Identifier: PMPL-1.0
 // SPDX-FileCopyrightText: 2025 Jonathan D.A. Jewell
 = deno-bunbridge
+
+
+
 :toc: macro
 :icons: font
 
 **Access Bun-specific APIs and ecosystem from Deno.**
 
-image:https://img.shields.io/badge/license-AGPL--3.0-blue[License]
 image:https://img.shields.io/badge/deno-runtime-green[Deno]
 image:https://img.shields.io/badge/bun-ecosystem-orange[Bun Ecosystem]
 
@@ -68,4 +71,4 @@ console.log(users);
 
 == License
 
-AGPL-3.0-or-later
+PMPL-1.0-or-later
